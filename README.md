@@ -1,3 +1,8 @@
+
+https://gautham-netflix.web.app/ view this link to know about the clone
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
